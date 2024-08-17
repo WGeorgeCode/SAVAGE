@@ -5,7 +5,7 @@
 * `apt update`
 * `apt install git python python3 -y`
 * `git clone https://github.com/WGeorgeCode/SAVAGE.git`
-* `cd haxorbd`
+* `cd SAVAGE
 
 #### > Run : `python3 main.py`
 
