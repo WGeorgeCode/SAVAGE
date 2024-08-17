@@ -11,7 +11,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git python python3 -y ; git clone [https://github.com/WGeorgeCode/SAVAGE.git] ; cd SAVAGE ; python3 main.py
+apt update ; apt install git python python3 -y ; git clone https://github.com/WGeorgeCode/SAVAGE.git ; cd SAVAGE ; python3 main.py
 ```
 
 
